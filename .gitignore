@@ -1,0 +1,4 @@
+#ignore All .log files 
+*.log
+#ignore files in ANY directory called temp
+temp/

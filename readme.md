@@ -6,3 +6,5 @@ This is an example repository for the Git tutoial on https://www.w3schools.com
 This repository is built step by step in the tutorial.
 
 I'm adding this line to test the end of line feature
+
+Steps for working on github are now being followed
